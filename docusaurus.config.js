@@ -66,9 +66,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: '卡皮巴拉',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Kapibala',
           src: 'img/logo.svg',
         },
         items: [
@@ -79,7 +79,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kap1bala',
             label: 'GitHub',
             position: 'right',
           },
